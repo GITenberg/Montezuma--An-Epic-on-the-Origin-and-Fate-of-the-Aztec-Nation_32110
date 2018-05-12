@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '35665'
     url: http://www.gutenberg.org/2009/agents/35665
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32110#Montezuma--An-Epic-on-the-Origin-and-Fate-of-the-Aztec-Nation
 gutenberg_issued: '2010-04-24'
 gutenberg_type: Text
 identifiers:
